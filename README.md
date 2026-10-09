@@ -1,4 +1,5 @@
 # 12 Hole Ocarina Fingering Plugin for MuseScore 4 (with fixes for Qt 6)
+![Ocarina fingering](ocarina-fingering.png)
 A MuseScore 4 plugin to add 12 hole ocarina fingerings, either for the selection or the whole score.
 Fingerings are added for every note in the chord, including grace notes (although the spacing for those might not be great).
 
